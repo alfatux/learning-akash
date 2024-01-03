@@ -5,5 +5,8 @@ Official site: <https://akash.network/>
 
 ## pac-man game example
 
-The deploy_pacman.yml file in this repository contain the required configuration to deploy a pac-man game (web app) on Akash supercloud. 
+The pacman.yml file contain the required configuration to deploy a pac-man game (web app) on Akash supercloud. 
+
+Active deployment (on testnet): <http://38pv5c578lbon98q509afl41vk.ingress.provider-02.sandbox-01.aksh.pw>
+
 
